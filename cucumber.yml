@@ -1,0 +1,3 @@
+default: -p pretty -p html
+pretty: --format pretty
+html: --format html --out=report/relatorios.html
